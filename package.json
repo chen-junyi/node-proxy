@@ -1,0 +1,13 @@
+{
+  "name": "node-proxy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:chanjunyi/node-proxy.git",
+  "license": "MIT",
+  "dependencies": {
+    "browser-sync": "^2.26.3",
+    "express": "^4.16.4",
+    "http-proxy-middleware": "^0.19.1",
+    "request": "^2.88.0"
+  }
+}
